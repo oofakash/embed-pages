@@ -1,0 +1,25 @@
+{
+  "name": "embed-pages",
+  "version": "1.0.0",
+  "description": "Package to create and navigate among embed pages using reactions.",
+  "main": "source/index.js",
+  "scripts": {
+    "test": "nodemon ./main/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cookedporkchop/embed-pages.git"
+  },
+  "keywords": [
+    "discord.js-embed-pages"
+  ],
+  "author": "Akash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cookedporkchop/embed-pages/issues"
+  },
+  "homepage": "https://github.com/cookedporkchop/embed-pages#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
