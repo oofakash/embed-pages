@@ -1,6 +1,6 @@
 {
   "name": "embed-pages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package to create and navigate among embed pages using reactions.",
   "main": "source/index.js",
   "scripts": {
