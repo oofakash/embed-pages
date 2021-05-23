@@ -49,6 +49,9 @@ async run(message, args) {
 	}
 
 ```
+Preview of example code
+
+![Preview](https://media.giphy.com/media/Gu3hF5JdqXoo6CvtkM/giphy.gif)
 
 ## Properties
 
